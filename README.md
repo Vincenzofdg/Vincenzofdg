@@ -39,7 +39,7 @@
 <!-- CONTACT -->
 <h3  align="center">📫 Reach me on</h3>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/vincenzo-fedzuirek-di-giacomo-b52349198"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/vincenzo-f-di-giacomo-107347223/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://t.me/vincenzofdg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:vincenzofdg@hotmail.com?subject=Hello%20Vincenzo,%20From%20Github"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
