@@ -44,7 +44,7 @@
   <a href="mailto:vincenzofdg@hotmail.com?subject=Hello%20Vincenzo,%20From%20Github"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-![Snake animation](https://github.com/Vincenzofdg/Vincenzofdg/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Vincenzofdg/Vincenzofdg/blob/output/github-contribution-grid-snake.svg) -->
 
 
 <!-- Source ==> https://dev.to/envoy_/150-badges-for-github-pnk -->
