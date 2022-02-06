@@ -23,8 +23,12 @@
 <p align="center">
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;&nbsp;&nbsp;
   <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;&nbsp;
+  <br /><br />
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">&nbsp;&nbsp;&nbsp;
   <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;&nbsp;&nbsp;
   <img alt="typescript"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;&nbsp;&nbsp;
+  <img alt="nodejs"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;&nbsp;
+  <img alt="mysql"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;&nbsp;
   <br /><br />
   <img alt="html5" src="https://img.shields.io/badge/html_5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;&nbsp;
   <img alt="css3" src="https://img.shields.io/badge/css_3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;&nbsp;
