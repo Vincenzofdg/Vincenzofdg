@@ -19,7 +19,7 @@
 <!--theme=merko-->
 </p>
 
-![github](https://activity-graph.herokuapp.com/graph?username=Vincenzofdg&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+<!-- ![github](https://activity-graph.herokuapp.com/graph?username=Vincenzofdg&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) -->
 
 <!-- MY TOOLS -->
 <h3 align="center">🔭 Development Tools</h3>
