@@ -19,7 +19,7 @@
 <!--theme=merko-->
 </p>
 
-<!-- ![github](https://activity-graph.herokuapp.com/graph?username=Vincenzofdg&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) -->
+![github](https://activity-graph.herokuapp.com/graph?username=Vincenzofdg&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 <!-- MY TOOLS -->
 <h3 align="center">🔭 Development Tools</h3>
@@ -58,7 +58,7 @@
   <a href="mailto:vfdgiacomo@gmail.com?subject=Hello%20Vincenzo,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-![Snake animation](https://github.com/Vincenzofdg/Vincenzofdg/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Vincenzofdg/Vincenzofdg/blob/output/github-contribution-grid-snake.svg) -->
 
 
 <!-- Source ==> https://dev.to/envoy_/150-badges-for-github-pnk -->
