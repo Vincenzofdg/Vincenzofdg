@@ -9,7 +9,7 @@
 <h3 align="center">💬 Programming Languages</h3>
 <p align="center">
   <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;&nbsp;
-<!--   <img alt="typescript"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;&nbsp; -->
+  <img alt="typescript"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;&nbsp;
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;&nbsp;
   <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">&nbsp;&nbsp;&nbsp;
   <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">&nbsp;&nbsp;
@@ -60,6 +60,5 @@
 </p>
 
 <!-- ![Snake animation](https://github.com/Vincenzofdg/Vincenzofdg/blob/output/github-contribution-grid-snake.svg) -->
-
 
 <!-- Source ==> https://dev.to/envoy_/150-badges-for-github-pnk -->
