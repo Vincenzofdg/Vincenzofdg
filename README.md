@@ -30,6 +30,15 @@
 <hr />
 
 <!-- CONTACT -->
+
+<div> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.gifer.com/origin/d1/d17fc7f864fdb8deae36bc3bf8cf6d05_w200.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.gifer.com/origin/d1/d17fc7f864fdb8deae36bc3bf8cf6d05_w200.gif">
+    <img align="right" alt="GIF" src=""  width="80"/>
+  </picture>  
+</div>
+
 <h3  align="center">📫 Reach me on</h3>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/vincenzo-f-di-giacomo-107347223/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
