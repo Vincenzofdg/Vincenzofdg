@@ -1,6 +1,6 @@
 <h3 align="center">👨‍💻 Who am I</h3>
 <p align="left">
-  <samp>I graduated with civil engineer degree from Catholic University of Santos and for the past year I have developed a fascination for technology and programming languages. Nowadays I study web development at Trybe and software enginner at Anhanguera.</samp>
+  <samp>I graduated with civil engineer degree from Catholic University of Santos and for the past year I have developed a fascination for technology and programming languages. Nowadays I study web development at Trybe and software enginner.</samp>
 </p>
 
 <hr />
