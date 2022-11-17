@@ -25,11 +25,47 @@
 <!-- CONTACT -->
 <h3  align="center">📫 Reach me on</h3>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/vincenzo-f-di-giacomo-107347223/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://t.me/vincenzofdg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://discordapp.com/users/630898609755258891"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://steamcommunity.com/id/vfdgiacomo"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:vfdgiacomo@gmail.com?subject=Hello%20Vincenzo,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!--Linkedin-->
+  <a target="_blank" href="https://www.linkedin.com/in/vincenzo-f-di-giacomo-107347223/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!--HackerRank-->
+  <a target="_blank" href="https://www.hackerrank.com/vincenzofdg?hr_r=1">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!--Telegram-->
+  <a target="_blank" href="https://t.me/vincenzofdg">
+    <img src="https://img.shields.io/badge/Telegram-005ebd?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!--Instagram-->
+  <a target="_blank" href="https://www.instagram.com/vincenzofdg/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!--Discord-->
+  <a target="_blank" href="https://discordapp.com/users/630898609755258891">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!--Steam-->
+  <a target="_blank" href="https://steamcommunity.com/id/vfdgiacomo">
+    <img src="https://img.shields.io/badge/Steam-5f4b37?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!--Email-->
+  <a href="mailto:vincenzofdg.dev@gmail.com?subject=Hello%20Vincenzo,%20From%20Github">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- ![Snake animation](https://github.com/Vincenzofdg/Vincenzofdg/blob/output/github-contribution-grid-snake.svg) -->
