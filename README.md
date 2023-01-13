@@ -6,10 +6,10 @@
 <hr />
 
 <!-- PROGRAMMING LANGUAGES -->
-<p align="center">
+<!-- <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Vincenzofdg&theme=blue-green" />
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincenzofdg&layout=compact&count_private=true&theme=blue-green"/>
-</p>
+</p> -->
 
 <div align="center">
     <h3 align="center">🔭 Development Tools 💬 </h3>
