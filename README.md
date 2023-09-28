@@ -16,7 +16,12 @@
     
 |   Languages  |    Frontend    |    Backend    |  Databases   |  Versioning & Deploy  |    Tools    |
 |    :---:     |     :---:      |     :---:     |    :---:     |        :---:          |    :---:    |
-| <img src="https://skillicons.dev/icons?i=js" /><img src="https://skillicons.dev/icons?i=py" /> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap" /><img align="center" src="https://skillicons.dev/icons?i=jest,react,redux" /> | <img src="https://skillicons.dev/icons?i=nodejs,express" /><img align="center" src="https://skillicons.dev/icons?i=ts" /> | <img src="https://skillicons.dev/icons?i=mysql" /><img src="https://skillicons.dev/icons?i=mongodb" /> | <img src="https://skillicons.dev/icons?i=git" /><img src="https://skillicons.dev/icons?i=docker" /> | <img src="https://skillicons.dev/icons?i=vscode,atom" /><img align="center" src="https://skillicons.dev/icons?i=bash,figma" /> |
+| <img src="https://skillicons.dev/icons?i=js,swift" /><img src="https://skillicons.dev/icons?i=py" /> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap" /><img align="center" src="https://skillicons.dev/icons?i=jest,react,redux" /> | <img src="https://skillicons.dev/icons?i=nodejs,express" /><img align="center" src="https://skillicons.dev/icons?i=ts" /> | <img src="https://skillicons.dev/icons?i=mysql" /><img src="https://skillicons.dev/icons?i=mongodb" /> | <img src="https://skillicons.dev/icons?i=git" /><img src="https://skillicons.dev/icons?i=docker" /> | <img src="https://skillicons.dev/icons?i=vscode,atom" /><img align="center" src="https://skillicons.dev/icons?i=bash,figma" /> |
+
+
+|   Languages  |    Framework   |
+|    :---:     |     :---:      |
+| <img src="https://skillicons.dev/icons?i=js,swift" /><img src="https://skillicons.dev/icons?i=py,php" /> | <img src="https://skillicons.dev/icons?i=react,laravel" /> <img src="https://skillicons.dev/icons?i=sequelize" />|
 
 </div>
 
