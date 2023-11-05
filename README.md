@@ -26,7 +26,7 @@
     
 |   Languages  |    Framework   |  Databases   |  Versioning & Deploy  |    Tools    |
 |    :---:     |     :---:      |    :---:     |        :---:          |    :---:    |
-| <img src="https://skillicons.dev/icons?i=js,swift" /> <img src="https://skillicons.dev/icons?i=py" /> | <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=express,sequelize" /> | <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=mongodb" /> | <img src="https://skillicons.dev/icons?i=git,githubactions" /> <img src="https://skillicons.dev/icons?i=docker" /> | <img src="https://skillicons.dev/icons?i=figma,firebase,tailwind" /> |
+| <img src="https://skillicons.dev/icons?i=js,swift,py" /> | <img src="https://skillicons.dev/icons?i=react,express,sequelize" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> | <img src="https://skillicons.dev/icons?i=docker,git,githubactions" /> | <img src="https://skillicons.dev/icons?i=figma,firebase,tailwind" /> |
 
 </div>
 
