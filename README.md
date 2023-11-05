@@ -26,7 +26,7 @@
     
 |   Languages  |    Framework   |  Databases   |  Versioning & Deploy  |    Tools    |
 |    :---:     |     :---:      |    :---:     |        :---:          |    :---:    |
-| <img src="https://skillicons.dev/icons?i=js,swift" /> <img src="https://skillicons.dev/icons?i=py,php" /> | <img src="https://skillicons.dev/icons?i=react,laravel" /> <img src="https://skillicons.dev/icons?i=express,sequelize" /> | <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=mongodb" /> | <img src="https://skillicons.dev/icons?i=git,githubactions" /> <img src="https://skillicons.dev/icons?i=docker" /> | <img src="https://skillicons.dev/icons?i=vscode,bash,firebase" /><img align="center" src="https://skillicons.dev/icons?i=bootstrap,tailwind,vite" /> |
+| <img src="https://skillicons.dev/icons?i=js,swift" /> <img src="https://skillicons.dev/icons?i=py" /> | <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=express,sequelize" /> | <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=mongodb" /> | <img src="https://skillicons.dev/icons?i=git,githubactions" /> <img src="https://skillicons.dev/icons?i=docker" /> | <img src="https://skillicons.dev/icons?i=figma,firebase,tailwind" /> |
 
 </div>
 
