@@ -61,7 +61,7 @@
 
 <br /><br />
 
-<div align="center">
+<div align="right">
   <a href="mailto:vincenzofdg.dev@gmail.com?subject=Hello%20Vincenzo,%20From%20Github">
     <img src="Images/email.png" alt="banner email">
   </a>
