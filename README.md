@@ -47,7 +47,7 @@
 
 <div align="center">
   <a href="https://discordapp.com/users/630898609755258891">
-    <img src=".imgs/linkedin.png" alt="banner discord">
+    <img src=".imgs/discord.png" alt="banner discord">
   </a>
 </div>
 
