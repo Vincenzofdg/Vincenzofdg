@@ -55,7 +55,7 @@
 
 <div align="center">
   <a href="https://www.instagram.com/vincenzofdg/">
-    <img src=".imgs/linkedin.png" alt="banner instagram">
+    <img src=".imgs/instagram.png" alt="banner instagram">
   </a>
 </div>
 
