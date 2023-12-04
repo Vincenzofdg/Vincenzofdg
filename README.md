@@ -34,45 +34,35 @@
 
 <!-- CONTACT -->
 <h3 align="center">📫 Reach me on</h3>
-<br /><br />
 
-<div align="center" style="display: flex; justify-content: space-around;">
-  <div align="center">
-    <a target="_blank" href="https://discordapp.com/users/630898609755258891">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-    <p style="font-weight: 600">Linkedin</p>
-  </div>
+<br />
 
-  <div align="center">
-    <a target="_blank" href="https://discordapp.com/users/630898609755258891">
-      <img src="https://skillicons.dev/icons?i=discord" />
-    </a>
-    <p style="font-weight: 600">Discord</p>
-  </div>
-
-  <div align="center">
-    <a target="_blank" href="https://www.instagram.com/vincenzofdg/">
-      <img src="https://skillicons.dev/icons?i=instagram" />
-    </a>
-    <p style="font-weight: 600">Instagram</p>
-  </div>
-</div>
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/vincenzofdg/">
+    <img src=".imgs/linkedin.png" alt="banner linkedin">
+  </a>
 </div>
 
 <br />
 
-
 <div align="center">
-  <a  href="mailto:vincenzofdg.dev@gmail.com?subject=Hello%20Vincenzo,%20From%20Github">
-    <img src=".imgs/gmail.jpeg" alt="banner" style="border-radius: 20px;">
+  <a href="https://discordapp.com/users/630898609755258891">
+    <img src=".imgs/linkedin.png" alt="banner discord">
   </a>
 </div>
 
+<br />
 
-<!-- STATS
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Vincenzofdg&theme=blue-green" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincenzofdg&layout=compact&count_private=true&theme=blue-green" />
-</div> -->
+  <a href="https://www.instagram.com/vincenzofdg/">
+    <img src=".imgs/linkedin.png" alt="banner instagram">
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="mailto:vincenzofdg.dev@gmail.com?subject=Hello%20Vincenzo,%20From%20Github">
+    <img src=".imgs/linkedin.png" alt="banner email">
+  </a>
+</div>
