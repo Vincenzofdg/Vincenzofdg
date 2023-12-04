@@ -1,4 +1,4 @@
-![banner](.imgs/banner.jpeg)
+![banner](Images/banner.jpeg)
 
 <p align="left" style="font-weight: 600">
   As a fullstack mobile and web developer, I am passionate about technology and have extensive experience in creating innovative solutions. With skills in both mobile app development and web application creation, I constantly seek out challenges that allow me to explore new technologies and drive results.
@@ -39,7 +39,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vincenzofdg/">
-    <img src=".imgs/linkedin.png" alt="banner linkedin">
+    <img src="Images/linkedin.png" alt="banner linkedin">
   </a>
 </div>
 
@@ -47,7 +47,7 @@
 
 <div align="center">
   <a href="https://discordapp.com/users/630898609755258891">
-    <img src=".imgs/discord.png" alt="banner discord">
+    <img src="Images/discord.png" alt="banner discord">
   </a>
 </div>
 
@@ -55,14 +55,14 @@
 
 <div align="center">
   <a href="https://www.instagram.com/vincenzofdg/">
-    <img src=".imgs/instagram.png" alt="banner instagram">
+    <img src="Images/instagram.png" alt="banner instagram">
   </a>
 </div>
 
-<br />
+<br /><br />
 
 <div align="center">
   <a href="mailto:vincenzofdg.dev@gmail.com?subject=Hello%20Vincenzo,%20From%20Github">
-    <img src=".imgs/linkedin.png" alt="banner email">
+    <img src="Images/email.png" alt="banner email">
   </a>
 </div>
