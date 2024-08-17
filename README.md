@@ -51,14 +51,6 @@
   </a>
 </div>
 
-<br />
-
-<div align="center">
-  <a href="https://www.instagram.com/vincenzofdg/">
-    <img src="Images/instagram.png" alt="banner instagram">
-  </a>
-</div>
-
 <br /><br />
 
 <div align="right">
